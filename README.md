@@ -68,5 +68,8 @@ Store embeddings for fast semantic search.
 Enter a natural language query in the provided interface.
 The system returns the most relevant videos (video path + summary), ranked by semantic similarity.
 
-- ** Example Query: **
+- **Example Query:**
+```bash
+"car hits a deer at night"
+```
   
