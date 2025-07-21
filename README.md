@@ -18,5 +18,10 @@ This project implements a **Vision-Language Model (VLM) powered video search sys
 
 ---
 
-## Architecture
+## Architecture 
+
+S3 Videos --> Frame Extraction --> Claude 3 Sonnet Captioning --> Summary Embeddings --> Semantic Search
+| |
+(AWS Bedrock) (Sentence Transformers)
+
 
