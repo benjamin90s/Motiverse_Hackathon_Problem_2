@@ -40,3 +40,8 @@ S3 Videos --> Frame Extraction --> Claude 3 Sonnet Captioning --> Summary Embedd
 
 ```bash
 pip install boto3 pandas opencv-python sentence-transformers ipywidgets
+
+
+### Setup
+AWS Credentials:
+Export or configure your AWS credentials in your environment. Ensure your Bedrock region has access to Claude 3 Sonnet.
