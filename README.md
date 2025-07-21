@@ -73,4 +73,13 @@ The system returns the most relevant videos (video path + summary), ranked by se
 "car hits a deer at night"
 ```
 Returns videos where a deer collision is detected, regardless of keywords.
+
+### Example
+
+| video\_key            | summary                                                  |
+| --------------------- | -------------------------------------------------------- |
+| videos/3078122527.mp4 | "A car collides with a deer at night, coming to a stop." |
+| videos/3084823540.mp4 | "Bird hits car on a rural road, driver brakes suddenly." |
+| ...                   | ...                                                      |
+
   
