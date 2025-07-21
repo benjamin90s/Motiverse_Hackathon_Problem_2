@@ -1,4 +1,4 @@
-# Video-Text Semantic Search System with Claude 3 Sonnet
+# Video-Text Semantic Search and Indexing Engine using Claude 3 Sonnet and Sentence Transformers
 
 ## Overview
 
