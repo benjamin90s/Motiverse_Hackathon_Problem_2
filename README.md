@@ -25,3 +25,18 @@ S3 Videos --> Frame Extraction --> Claude 3 Sonnet Captioning --> Summary Embedd
 (AWS Bedrock) (Sentence Transformers)
 
 
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.8+
+- AWS account with access to S3 and Bedrock API (Claude 3 Sonnet)
+- Packages: `boto3`, `pandas`, `opencv-python`, `sentence-transformers`, `ipywidgets`, etc.
+
+### Installation
+
+```bash
+pip install boto3 pandas opencv-python sentence-transformers ipywidgets
