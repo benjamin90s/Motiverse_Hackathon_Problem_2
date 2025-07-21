@@ -46,7 +46,7 @@ pip install boto3 pandas opencv-python sentence-transformers ipywidgets
 Export or configure your AWS credentials in your environment. Ensure your Bedrock region has access to Claude 3 Sonnet.
 
 - **Clone the repo:**
-- ```bash
+```bash
 git clone https://github.com/your-username/video-text-index.git
 cd video-text-index
 ```
