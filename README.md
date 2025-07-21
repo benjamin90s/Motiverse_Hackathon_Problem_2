@@ -42,11 +42,11 @@ S3 Videos --> Frame Extraction --> Claude 3 Sonnet Captioning --> Summary Embedd
 pip install boto3 pandas opencv-python sentence-transformers ipywidgets
 ```
 ### Setup
-AWS Credentials:
+- **AWS Credentials:**
 Export or configure your AWS credentials in your environment. Ensure your Bedrock region has access to Claude 3 Sonnet.
 
-Clone the repo:
+- **Clone the repo:**
 git clone https://github.com/your-username/video-text-index.git
 cd video-text-index
 
-Run the Jupyter notebook following the provided instructions.
+- **Run the Jupyter notebook following the provided instructions.**
