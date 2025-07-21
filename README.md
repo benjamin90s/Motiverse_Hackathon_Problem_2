@@ -53,7 +53,7 @@ cd video-text-index
 
 - **Run the Jupyter notebook following the provided instructions.**
 
-- **Usage**
+### Usage
 
 - **Process Videos:**
 Extract frames from each video in your S3 bucket.
