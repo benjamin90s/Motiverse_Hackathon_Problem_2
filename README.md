@@ -72,4 +72,5 @@ The system returns the most relevant videos (video path + summary), ranked by se
 ```bash
 "car hits a deer at night"
 ```
+Returns videos where a deer collision is detected, regardless of keywords.
   
