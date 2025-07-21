@@ -52,3 +52,21 @@ cd video-text-index
 ```
 
 - **Run the Jupyter notebook following the provided instructions.**
+
+- **Usage**
+
+- **Process Videos:**
+Extract frames from each video in your S3 bucket.
+Use Claude 3 Sonnet (via Bedrock) to generate a summary for each video.
+Save summaries and metadata to a CSV file.
+
+- **Build Search Index:**
+Embed all summaries using Sentence Transformers (e.g., all-MiniLM-L6-v2).
+Store embeddings for fast semantic search.
+
+- **Semantic Search:**
+Enter a natural language query in the provided interface.
+The system returns the most relevant videos (video path + summary), ranked by semantic similarity.
+
+- ** Example Query: **
+  
